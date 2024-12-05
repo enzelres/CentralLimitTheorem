@@ -9,7 +9,7 @@ and distribution = "binomial" for a binomial distribution
 
 Required Python Packages:
 
-numpy
+numpy, 
 matplotlib
 
 
